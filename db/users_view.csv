@@ -1,0 +1,2 @@
+"id","email","encrypted_password","reset_password_token","reset_password_sent_at","remember_created_at","created_at","updated_at","nickname"
+1,"tech@expert.com","$2a$11$w3MyC7IQmsS/gzkRWn.8lOmEmCnKsIK/TV/kyx9EcNrVPEcOdDWR2",,,,"2020-01-19 07:23:15","2020-01-19 07:23:15","tech"
